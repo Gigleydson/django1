@@ -1,0 +1,34 @@
+body {
+    background-color: #341256;
+    color: #fff;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover{
+    color: grey;
+}
+
+button{
+    cursor: pointer;
+}
+
+.container{
+    width: 1200px;
+    min-height: 100%;
+    margin:0 auto;
+    border: 1px soliod red;
+    text-align: center;
+}
+
+table{
+    width: 200px;
+    margin: 0 auto;
+}
+
+.tabela-interna{
+    width: 250px;
+}
