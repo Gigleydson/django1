@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-4uh&!t*ek(ixe*6ip5b-1-^vb9l0w37#nfi!kp!gm3=w=lc_+f
 # DEBUG com valor False = modo produção
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']  # Aqui vai o domínio do site onde será publicado
+ALLOWED_HOSTS = ['django1-gd.herokuapp.com']  # Aqui vai o domínio do site onde será publicado
 
 # Application definition
 
